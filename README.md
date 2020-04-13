@@ -67,3 +67,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # react-tailwind-pixabay-gallery
+
+Thanks to: `Traversy Media` for this awesome course which can be found here: https://youtu.be/FiGmAI5e91M
