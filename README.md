@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Need to create your `.env` file at root level and then add your Pixabay API key to .env - https://pixabay.com/api/docs/
+
+### e.g. `REACT_APP_PIXABAY_API_KEY=AddyourPixabayAPIKey`
+
 ## Available Scripts
 
 In the project directory, you can run:
